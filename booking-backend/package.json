@@ -1,0 +1,33 @@
+{
+  "name": "booking_system_be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horvathbencetibor/booking_system_be.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horvathbencetibor/booking_system_be/issues"
+  },
+  "homepage": "https://github.com/horvathbencetibor/booking_system_be#readme",
+  "dependencies": {
+    "@fastify/cors": "^11.1.0",
+    "@fastify/jwt": "^10.0.0",
+    "@fastify/multipart": "^9.3.0",
+    "@fastify/swagger": "^9.5.1",
+    "@fastify/swagger-ui": "^5.2.3",
+    "authenticate": "^0.1.5",
+    "bcrypt": "^6.0.0",
+    "fastify": "^5.6.0",
+    "jsonwebtoken": "^9.0.2",
+    "knex": "^3.1.0",
+    "pg": "^8.16.3"
+  }
+}

@@ -1,0 +1,4 @@
+# booking_system_be
+The goal of this project is to develop a flexible booking and schedule management system that can be used by gyms and schools. For gyms and educational institutions, efficiently managing classes, training sessions, and rooms is often a challenge, as overlapping programs, instructors, and room availability frequently lead to conflicts and administrative overhead.
+
+This project aims to create a digital platform that simplifies the booking and scheduling process, allowing users to easily register, manage locations and times flexibly, and transparently organize calendars and resources. The system’s purpose is to increase institutional efficiency, reduce administrative burdens, and enhance the overall user experience for both visitors and instructors.
