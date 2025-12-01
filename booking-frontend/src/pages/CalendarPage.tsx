@@ -66,8 +66,6 @@ const handleBook = async (slot: Timeslot) => {
 
     alert("Foglalás sikeres!");
 
-    // ha kell, itt frissítheted a listát
-    // await loadData();
   } catch (err: any) {
     console.error("Foglalás hiba:", err.response?.data || err);
 

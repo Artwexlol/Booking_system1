@@ -28,7 +28,6 @@ function sameDay(a: Date, b: Date) {
 export default function DashboardCalendar() {
   const { user } = useAuth();
 
-  // userId: ugyanaz a trükk, mint a Foglalásaim / Naptár oldalon
   const userId =
     (user as any)?.id ?? (user as any)?.user_id ?? undefined;
 
